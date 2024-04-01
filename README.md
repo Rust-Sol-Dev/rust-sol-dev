@@ -18,7 +18,7 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 # Recently Improved Techs
 - [DenoJS](https://deno.com)
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/)
-- [BunJS](https://bun.sh)
+- [Bun JavaScript Runtime Environment](https://bun.sh)
 - [Segment Anything(AI)](https://segment-anything.com)
 
 # Recently Read Acticles
