@@ -11,7 +11,7 @@ Hi 👋 Welcome to My Profile!
 But hold on to your keyboards, for in recent years, I've taken a detour into the whimsical realm of AI projects. Picture this: combining the elegance of neural networks with the blockchain ballet. Yes, you heard it right—making crypto projects not just cutting-edge but cutting through dimensions! Join me on this intergalactic coding carnival, where every line of code is a step into the cosmos of hilarity and innovation. 🚀💻🌌 #WebDevGalacticTrailblazer #BlockchainJester #AIFunAndGames
 <br> <br>
 
-<a href="https://app.daily.dev/felixmartel"><img src="https://api.daily.dev/devcards/v2/OPrPhalM7pR9vO8TnKyX3.png?r=r11&type=default" width="356" alt="Felix Martel's Dev Card"/></a>
+<a href="https://app.daily.dev/mrrust77"><img src="https://api.daily.dev/devcards/v2/OPrPhalM7pR9vO8TnKyX3.png?type=default&r=sim" width="356" alt="Mr Rust's Dev Card"/></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
