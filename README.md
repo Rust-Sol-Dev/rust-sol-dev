@@ -21,12 +21,14 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 <!-- BLOG-POST-LIST:END -->
 
 # Recently Improved Techs
+- [Solana Jito Bundle](https://www.jito.wtf)
 - [DenoJS](https://deno.com)
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/)
 - [Bun JavaScript Runtime Environment](https://bun.sh)
 - [Segment Anything(AI)](https://segment-anything.com)
 
 # Recently Read Acticles
+- [What is Jito? How It Simplifies Liquid Staking on Solana](https://www.codezeros.com/what-is-jito-how-it-simplifies-liquid-staking-on-solana)
 - [Binance Web3 Wallet Enhances Crypto Accessibility with Solana (SOL) Integration](https://blockchain.news/news/binance-web3-wallet-enhances-crypto-accessibility-with-solana-sol-integration)
 - [A Golang based simple, easy-to-use, elegant open-source Home Cloud system](https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/?ref=dailydev)
 - [Leveraging React Render Props for Flexible Component Composition](https://www.dhiwise.com/post/leveraging-react-render-props-for-flexible-component-composition)
