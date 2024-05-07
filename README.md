@@ -1,7 +1,7 @@
 Hi 👋 Welcome to My Profile!
 ============================
-* Blockchain Engineer
-* Full Stack Engineer
+* Blockchain Developer
+* Full Stack Developer
 * AI Engineer
 * Tech Advisor
 ----------------------------------------------------
