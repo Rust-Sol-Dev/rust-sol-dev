@@ -28,6 +28,7 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 - [Segment Anything(AI)](https://segment-anything.com)
 
 # Recently Read Acticles
+- [Solana liquid staking: The ultimate guide (2024)](https://phantom.app/learn/crypto-101/solana-liquid-staking)
 - [What is Jito? How It Simplifies Liquid Staking on Solana](https://www.codezeros.com/what-is-jito-how-it-simplifies-liquid-staking-on-solana)
 - [Binance Web3 Wallet Enhances Crypto Accessibility with Solana (SOL) Integration](https://blockchain.news/news/binance-web3-wallet-enhances-crypto-accessibility-with-solana-sol-integration)
 - [A Golang based simple, easy-to-use, elegant open-source Home Cloud system](https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/?ref=dailydev)
