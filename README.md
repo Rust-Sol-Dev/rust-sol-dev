@@ -1,7 +1,8 @@
 Hi 👋 Welcome to My Profile!
 ============================
-* Blockchain Developer
-* Full Stack Developer
+* Front End Developer (+8 yrs)
+* Back End Developer (6 yrs)
+* Blockchain Developer(5 yrs)
 * AI Engineer
 * Tech Advisor
 ----------------------------------------------------
