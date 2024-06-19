@@ -6,7 +6,7 @@ Hi 👋 Welcome to My Profile!
 * Tech Advisor
 ----------------------------------------------------
 
-🚀 Greetings, Earthlings! 🌍 Gather 'round as I unveil the chronicles of my 8-year odyssey in web wizardry, navigating the binary cosmos with a keyboard and a sprinkle of magic. For the past 5 years, I've transcended into the blockchain realm, crafting DeFi wonders and weaving NFT P2E tales on the tapestry of Ethereum and Solana—because what's life without a touch of crypto sorcery?
+🚀 Greetings, Earthlings! 🌍 Gather 'round as I unveil the chronicles of my 8-year odyssey in web wizardry, navigating the binary cosmos with a keyboard and a sprinkle of magic. For the past 5 years, I've transcended into the blockchain realm, crafting DeFi wonders and weaving NFT P2E tales on the tapestry of Ethereum, Bitcoin and Solana—because what's life without a touch of crypto sorcery?
 
 But hold on to your keyboards, for in recent years, I've taken a detour into the whimsical realm of AI projects. Picture this: combining the elegance of neural networks with the blockchain ballet. Yes, you heard it right—making crypto projects not just cutting-edge but cutting through dimensions! Join me on this intergalactic coding carnival, where every line of code is a step into the cosmos of hilarity and innovation. 🚀💻🌌 #WebDevGalacticTrailblazer #BlockchainJester #AIFunAndGames
 <br> <br>
