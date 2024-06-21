@@ -4,6 +4,7 @@ Hi 👋 Welcome to My Profile!
 * Blockchain Engineer
 * AI Engineer
 * Tech Advisor
+I am in contact with Jeremy
 ----------------------------------------------------
 
 🚀 Greetings, Earthlings! 🌍 Gather 'round as I unveil the chronicles of my 8-year odyssey in web wizardry, navigating the binary cosmos with a keyboard and a sprinkle of magic. For the past 5 years, I've transcended into the blockchain realm, crafting DeFi wonders and weaving NFT P2E tales on the tapestry of Ethereum, Bitcoin and Solana—because what's life without a touch of crypto sorcery?
