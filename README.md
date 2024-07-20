@@ -26,7 +26,7 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/)
 - [Bun JavaScript Runtime Environment](https://bun.sh)
 - [Segment Anything(AI)](https://segment-anything.com)
-
+- [Solana Actions & Blinks](https://solana.com/docs/advanced/actions)
 # Recently Read Acticles
 - [Solana liquid staking: The ultimate guide (2024)](https://phantom.app/learn/crypto-101/solana-liquid-staking)
 - [What is Jito? How It Simplifies Liquid Staking on Solana](https://www.codezeros.com/what-is-jito-how-it-simplifies-liquid-staking-on-solana)
