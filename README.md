@@ -21,13 +21,15 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 <!-- BLOG-POST-LIST:END -->
 
 # Recently Improved Techs
+- [Solana Actions & Blinks](https://solana.com/docs/advanced/actions)
 - [Solana Jito Bundle](https://www.jito.wtf)
 - [DenoJS](https://deno.com)
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/)
 - [Bun JavaScript Runtime Environment](https://bun.sh)
 - [Segment Anything(AI)](https://segment-anything.com)
-- [Solana Actions & Blinks](https://solana.com/docs/advanced/actions)
+
 # Recently Read Acticles
+- [Solana Adds 'Blinks' and 'Actions' so Users Can Trade Crypto on Their Favorite Social Apps](https://www.coindesk.com/tech/2024/06/25/solana-adds-blinks-and-actions-so-users-can-trade-crypto-on-their-favorite-social-apps)
 - [Solana liquid staking: The ultimate guide (2024)](https://phantom.app/learn/crypto-101/solana-liquid-staking)
 - [What is Jito? How It Simplifies Liquid Staking on Solana](https://www.codezeros.com/what-is-jito-how-it-simplifies-liquid-staking-on-solana)
 - [Binance Web3 Wallet Enhances Crypto Accessibility with Solana (SOL) Integration](https://blockchain.news/news/binance-web3-wallet-enhances-crypto-accessibility-with-solana-sol-integration)
