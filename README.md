@@ -1,4 +1,4 @@
-Hi 👋 Welcome to a mysterious world!
+Hi 👋 Welcome to a Mysterious World!
 ============================
 * Full Stack Developer
 * Blockchain Engineer
