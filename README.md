@@ -14,7 +14,7 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 <a href="https://app.daily.dev/mrrust77"><img src="https://api.daily.dev/devcards/v2/OPrPhalM7pR9vO8TnKyX3.png?type=default&r=sim" width="356" alt="Mr Rust's Dev Card"/></a>
 
 ### My GitHub Stats
-<a href="http://www.github.com/MisterRust"><img src="https://github-readme-stats.vercel.app/api?username=MisterRust&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mr Rust's GitHub stats" /></a>
+<a href="http://www.github.com/rust-sol-dev"><img src="https://github-readme-stats.vercel.app/api?username=MisterRust&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mr Rust's GitHub stats" /></a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
